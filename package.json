@@ -1,0 +1,8 @@
+{
+  "name": "secure-redirect",
+  "version": "1.0.0",
+  "main": "api/redirect.js",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
